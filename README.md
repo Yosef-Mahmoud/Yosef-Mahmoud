@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yosef-Mahmoud
-- 👀 I’m interested in cloud computing 
+- 👀 I’m interested in cloud computing & AI
 - 🌱 I’m currently learning computer science in Cairo University 
-- 💞️ I’m looking to collaborate on Cloud/networking projects
+- 💞️ I’m looking to collaborate on Cloud/AI projects
+- Passionate about tech-driven soloutions for youth unemployment and youth empowerment 
 - 📫 How to reach me ...
 - yosefkarem68@gmail.com
 
